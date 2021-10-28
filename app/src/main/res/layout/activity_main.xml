@@ -51,20 +51,6 @@
         android:textColor="@color/liver"
         android:textSize="20sp" />
 
-    <!--    <EditText-->
-<!--        android:id="@+id/activity_main_et"-->
-<!--        android:layout_width="match_parent"-->
-<!--        android:layout_height="wrap_content"-->
-<!--        android:layout_marginTop="10dp"-->
-<!--        android:autofillHints=""-->
-<!--        android:ems="10"-->
-<!--        android:hint="@string/hint_text"-->
-<!--        android:inputType="textPersonName"-->
-<!--        android:minHeight="48dp"-->
-<!--        android:textAlignment="center"-->
-<!--        android:textColor="@color/apricot"-->
-<!--        android:textColorHint="@color/antique_brass"-->
-<!--        android:textSize="20sp"-->
-<!--        tools:ignore="TextContrastCheck,TextContrastCheck" />-->
+
 
 </LinearLayout>
